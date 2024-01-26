@@ -9,8 +9,7 @@
 * Cooked rice
 * Grilled tomatoes + asparagus (w/ herbs & olive oil)
 
-> Source: Bla bla https://github.com/mr-georgij/food/edit/main/README.md
-
+> Source: GREEN HEALTHY COOKING https://greenhealthycooking.com/how-to-meal-prep/
 ---
 <img align="right" width="300" src="https://images.kiwi.com/photos/1200x628/siauliai_lt.webp">
 
