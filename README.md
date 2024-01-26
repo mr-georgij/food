@@ -1,7 +1,7 @@
 # Food
 
 ---
-<img align="right" width="300" src="https://images.kiwi.com/photos/1200x628/siauliai_lt.webp">
+<img align="right" width="300" src="https://raw.githubusercontent.com/mr-georgij/food/main/pics/Screenshot%202024-01-26%20at%2017.22.54.png">
 
 ## Rice w/ chicken + tomatoes + asparagus
 
